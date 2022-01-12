@@ -1,0 +1,37 @@
+C:\Users\USER\RA\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\USER\RA\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\USER\RA\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csprojAssemblyReference.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb

@@ -1,0 +1,62 @@
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csprojAssemblyReference.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.json
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.dev.json
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.genruntimeconfig.cache
+C:\Users\USER\RA\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\USER\RA\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.json
+C:\Users\USER\RA\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.dev.json
+C:\Users\USER\RA\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\USER\RA\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\USER\RA\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\USER\RA\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\USER\RA\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+C:\Users\USER\RA\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RA\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\USER\RA\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\USER\RA\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\RA\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\USER\RA\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\USER\RA\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\USER\RA\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.genruntimeconfig.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csprojAssemblyReference.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.json
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.dev.json
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.genruntimeconfig.cache
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.json
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.dev.json
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\ounifi samir\Downloads\.net\pour l examan\EmptyProject\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.genruntimeconfig.cache
